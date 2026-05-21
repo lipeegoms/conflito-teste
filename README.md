@@ -1,4 +1,3 @@
 # conflito-teste
 
-Testo modificado pelo Eclipse. 
-Texto editado pelo Git Hub.
+Teste modificado pelo Eclipse. Parte 2 o retorno
